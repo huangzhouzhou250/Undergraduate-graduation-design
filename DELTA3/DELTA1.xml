@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="04/29/18||19:41:10" using="Simscape Multibody Link Version 5.0" from="SolidWorks 23.4.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="DELTA1" uid="DELTA1" version="382">
+<AssemblyFile name="DELTA1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="xialiang1-3" uid="xialiang1-3" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>1.0764527201711064e-015 -1 6.0060603850559495e-015 -0.98282804381991196 0 0.18452380952366287 -0.18452380952366287 -6.1015557360068875e-015 -0.98282804381991196</Rotation>
+<Translation>-0.24782430330092739 -0.55138152689451392 0.17773462071782034</Translation>
+</Transform>
+</Instance>
+<Instance name="xialiang1-4" uid="xialiang1-4" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>-0.15980230665061856 -0.50000000000000955 0.85115405349979512 -0.98282804381989486 -6.7657836768797481e-014 -0.18452380952375511 0.092261904761936894 -0.86602540378443316 -0.49141402190994599</Rotation>
+<Translation>-0.099082075392127239 -0.55138152689459241 0.058669589354396201</Translation>
+</Transform>
+</Instance>
+<Instance name="shangliang1-2" uid="shangliang1-2" entityUid="shangliang1*:*Default">
+<Transform>
+<Rotation>-0.15980230665100031 -0.49999999999999717 0.85115405349973083 0.98282804381981947 3.0964814046186007e-016 0.18452380952415612 -0.092261904762077782 0.86602540378444037 0.49141402190990696</Rotation>
+<Translation>-0.37868350000271467 -0.1385937484903399 -0.040702188910418075</Translation>
+</Transform>
+</Instance>
+<Instance name="dimian1-1" uid="dimian1-1" entityUid="dimian1*:*Default">
+<Transform>
+<Rotation>-0.50000000000017941 -7.2912999612738437e-013 -0.8660254037843349 8.7643712015577043e-015 -1 8.3686668701664859e-013 -0.8660254037843349 4.1084317540685786e-013 0.50000000000017941</Rotation>
+<Translation>-0.22282430330135733 -0.82208853784937819 0.066603668337119101</Translation>
+</Transform>
+</Instance>
+<Instance name="dingmian-1" uid="dingmian-1" grounded="true" entityUid="dingmian*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.2228243033008738 0.048487018959131087 0.066603668336756391</Translation>
+</Transform>
+</Instance>
+<Instance name="shangliang1-1" uid="shangliang1-1" entityUid="shangliang1*:*Default">
+<Transform>
+<Rotation>-1.0960148132972407e-015 -1 -5.8376970307045016e-015 0.98282804381991207 0 -0.18452380952366298 0.18452380952366298 -5.9396931817445875e-015 0.98282804381991207</Rotation>
+<Translation>-0.20782430330087487 -0.13859374849021497 0.25523462071773012</Translation>
+</Transform>
+</Instance>
+<Instance name="xialiang1-2" uid="xialiang1-2" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>1.1215555305465034e-015 -1 5.8376970307054483e-015 -0.98282804381991196 0 0.18452380952366287 -0.18452380952366287 -5.9444060521903179e-015 -0.98282804381991196</Rotation>
+<Translation>-0.1678243033009274 -0.55138152689452391 0.17773462071781898</Translation>
+</Transform>
+</Instance>
+<Instance name="xialiang1-5" uid="xialiang1-5" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>-0.15980230665061859 -0.50000000000000944 0.85115405349979523 -0.98282804381989486 -6.7574093424422866e-014 -0.18452380952375505 0.092261904761936797 -0.86602540378443316 -0.49141402190994588</Rotation>
+<Translation>-0.1390820753921275 -0.55138152689459452 -0.010612442948358775</Translation>
+</Transform>
+</Instance>
+<Instance name="shangliang1-3" uid="shangliang1-3" entityUid="shangliang1*:*Default">
+<Transform>
+<Rotation>0.15980230665048675 -0.4999999999999985 -0.85115405349982609 0.98282804381993083 -8.1618739544708774e-016 0.18452380952356359 -0.09226190476178224 -0.86602540378443948 0.49141402190996386</Rotation>
+<Translation>-0.051965106598854956 -0.13859374849024164 -0.014721426796988445</Translation>
+</Transform>
+</Instance>
+<Instance name="xialiang1-7" uid="xialiang1-7" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>0.1598023066504505 0.50000000000017297 0.85115405349973072 -0.98282804381981947 -1.0809948301200971e-012 0.18452380952415612 0.092261904763030075 -0.86602540378433879 0.49141402190990707</Rotation>
+<Translation>-0.34656653120994735 -0.55138152689434516 0.058669589354505849</Translation>
+</Transform>
+</Instance>
+<Instance name="xialiang1-6" uid="xialiang1-6" entityUid="xialiang1*:*Default">
+<Transform>
+<Rotation>0.15980230665045056 0.50000000000017297 0.85115405349973072 -0.98282804381981947 -1.0809678361663792e-012 0.18452380952415617 0.092261904763030061 -0.86602540378433901 0.49141402190990674</Rotation>
+<Translation>-0.30656653120995087 -0.55138152689441378 -0.010612442948251279</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="同心1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>500.00000000000006 -0.02 0.22000000000297004</Position>
+<Axis>-1 0 -5.9396931817445875e-015</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shangliang1-1</Uid>
+</InstancePath>
+<Position>0.17000000000000004 0.030000000000000027 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>-0.01499999999999907 -0.010000000000000002 -0.1441506350946124</Position>
+<Axis>1 0 5.9952043329758461e-015</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shangliang1-1</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 0.029999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心3">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-1</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 -0.0099999999999999811 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-2</Uid>
+</InstancePath>
+<Position>-0.24999999999999989 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心8">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-1</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 0.040000000000000008 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-3</Uid>
+</InstancePath>
+<Position>-0.25000000000000006 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心9">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>-0.068791651245988239 -0.024999999999999911 0.010849364905389597</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-2</Uid>
+</InstancePath>
+<Position>0.25 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="平行7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-2</Uid>
+</InstancePath>
+<Position>-0.24999999999999989 0.029999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-3</Uid>
+</InstancePath>
+<Position>-0.25000000000000011 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="同心11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>-288.42254385204166 -0.02 -500.00250000000005</Position>
+<Axis>0.49999999999999906 0 0.86602540378443937</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shangliang1-3</Uid>
+</InstancePath>
+<Position>0.17000000000000004 0.029999999999999992 0</Position>
+<Axis>0 -1 2.2204460492503131e-016</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>-0.26709527990898507 -0.010000000000000002 0.17152803983041914</Position>
+<Axis>-0.49999999999999878 0 -0.86602540378443937</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shangliang1-3</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 0 0</Position>
+<Axis>0 -1 2.2204460492503131e-016</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心12">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-4</Uid>
+</InstancePath>
+<Position>-0.25 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-3</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 -0.010000000000000009 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心13">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-3</Uid>
+</InstancePath>
+<Position>-0.17000000000000007 0.040000000000000001 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-5</Uid>
+</InstancePath>
+<Position>-0.24999999999999994 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心14">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>-0.025000000000000307 -0.024999999999999911 -0.06500000000000003</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-4</Uid>
+</InstancePath>
+<Position>0.25 0.030000000000000006 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>-288.92772533758114 -0.02 499.99750000000012</Position>
+<Axis>0.49999999999999717 0 -0.86602540378444037</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shangliang1-2</Uid>
+</InstancePath>
+<Position>0.16999999999999998 0.030000000000000027 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>dingmian-1</Uid>
+</InstancePath>
+<Position>0.23065698604071952 -0.010000000000000002 0.15049038105676504</Position>
+<Axis>0.49999999999999711 0 -0.86602540378444026</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shangliang1-2</Uid>
+</InstancePath>
+<Position>-0.17000000000000015 0.030000000000000027 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心19">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-2</Uid>
+</InstancePath>
+<Position>-0.1700000000000001 0.040000000000000036 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-7</Uid>
+</InstancePath>
+<Position>-0.24999999999999997 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心20">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>shangliang1-2</Uid>
+</InstancePath>
+<Position>-0.1700000000000001 -0.0099999999999999534 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-6</Uid>
+</InstancePath>
+<Position>-0.24999999999999997 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心21">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>0.06879165124598878 -0.024999999999999911 0.010849364905388154</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-6</Uid>
+</InstancePath>
+<Position>0.25 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="同心22">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>0.043791651245989063 -0.024999999999999911 0.054150635094610239</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-7</Uid>
+</InstancePath>
+<Position>0.25000000000000006 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-6</Uid>
+</InstancePath>
+<Position>-0.25 0.030000000000000027 -0.0099999999999999534</Position>
+<Axis>0 -1.6653345369377348e-016 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-7</Uid>
+</InstancePath>
+<Position>-0.25 0.030000000000000027 -0.0099999999999999534</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心23">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>0.024999999999999703 -0.024999999999999911 -0.064999999999999863</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-5</Uid>
+</InstancePath>
+<Position>0.25000000000000022 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="平行12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-4</Uid>
+</InstancePath>
+<Position>-0.25000000000000006 0.029999999999999999 0.0099999999999999846</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-5</Uid>
+</InstancePath>
+<Position>-0.25 0.029999999999999999 0.010000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="平行13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-4</Uid>
+</InstancePath>
+<Position>-0.25000000000000006 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-5</Uid>
+</InstancePath>
+<Position>-0.24999999999999994 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="同心24">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>dimian1-1</Uid>
+</InstancePath>
+<Position>-0.043791651245988147 -0.024999999999999911 0.05415063509461146</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>xialiang1-3</Uid>
+</InstancePath>
+<Position>0.24999999999999978 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="平行14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-2</Uid>
+</InstancePath>
+<Position>-0.24999999999999989 0.029999999999999999 -0.0099999999999999534</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-3</Uid>
+</InstancePath>
+<Position>-0.25000000000000006 0.029999999999999999 -0.0099999999999999534</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="平行15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-2</Uid>
+</InstancePath>
+<Position>-0.24999999999999989 0.029999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>xialiang1-3</Uid>
+</InstancePath>
+<Position>-0.25000000000000006 0.029999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="dimian1" uid="dimian1*:*Default" version="390">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="dimian1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.14138214710862107</Mass>
+<CenterOfMass>0 -0.017347129689595356 0</CenterOfMass>
+<Inertia>0.00024091328974976453 0.0004419816414132555 0.00024091328974976554 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="dimian1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="dingmian" uid="dingmian*:*Default" version="352">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="dingmian.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.75823665600372336</Mass>
+<CenterOfMass>-1.0131875848688423e-012 0.0017995287915062326 2.2716812459397409e-012</CenterOfMass>
+<Inertia>0.0073245130973917053 0.01455011631353363 0.0073245135103167424 4.3688953567751947e-014 4.2146634687281662e-010 -1.6546883192629656e-014</Inertia>
+</MassProperties>
+<GeometryFile name="dingmian_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="shangliang1" uid="shangliang1*:*Default" version="307">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="shangliang1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.21316297857297026</Mass>
+<CenterOfMass>-0.003549397910484474 0.014999999999999999 0</CenterOfMass>
+<Inertia>2.3883835578616462e-005 0.0022481912628895353 0.0022580084410593997 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="shangliang1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="xialiang1" uid="xialiang1*:*Default" version="302">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="xialiang1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.30837758040957269</Mass>
+<CenterOfMass>0 0.015000000000000001 0</CenterOfMass>
+<Inertia>3.325529123380055e-005 0.0068040595425208255 0.0068168540668320995 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="xialiang1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
