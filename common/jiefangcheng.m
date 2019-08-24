@@ -1,0 +1,24 @@
+syms x11 x12 x13 ;
+syms x21 x22 x23 ;
+syms x31 x32 x33 ;
+syms a real;
+x13=pi/2;
+x23=pi/2;
+x33=pi/2;
+% x33=0;
+% x13=0;
+% x23=0;
+% a=x11+x12;
+% x11=a-pi/2-x12;
+% x21=a-pi/2-x22;
+% x31=a-pi/2-x32;
+J(1,1)=cos(pi/2+x11+x12-a)*cos(x13);
+J(1,2)=sin(x13);
+J(1,3)=sin(pi/2+x11+x12-a)*cos(x13);
+J(2,1)=cos(pi/2+x21+x22-a)*cos(x23)*cos(2/3*pi)+sin(x23)*sin(2/3*pi);
+J(2,2)=cos(pi/2+x21+x22-a)*cos(x23)*sin(2/3*pi)+sin(x23)*cos(2/3*pi);
+J(2,3)=sin(pi/2+x21+x22-a)*cos(x23);
+J(3,1)=cos(pi/2+x31+x32-a)*cos(x33)*cos(4/3*pi)+sin(x33)*sin(4/3*pi);
+J(3,2)=cos(pi/2+x31+x32-a)*cos(x33)*sin(4/3*pi)+sin(x33)*cos(4/3*pi);
+J(3,3)=sin(pi/2+x31+x32-a)*cos(x33);
+simplify(det(J))
