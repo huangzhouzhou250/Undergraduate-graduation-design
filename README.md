@@ -1,2 +1,2 @@
-# Undergraduate-graduation-design
+# graduation-design
 本科毕设相关程序
